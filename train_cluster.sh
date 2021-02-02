@@ -1,5 +1,4 @@
 #!/bin/bash
-#SBATCH -C knl
 #SBATCH -N 4
 #SBATCH -q debug
 #SBATCH -t 2
